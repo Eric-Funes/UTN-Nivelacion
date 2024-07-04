@@ -1,0 +1,6 @@
+#4)
+nombreAlumno= input("Nombre del alumno: ")
+nroComision= input("Numero de comision: ")
+Asignatura= input("Asignatura: ")
+Presentismo= input("¿estuvo presente?: ")
+print ("\nNombre", nombreAlumno, "\nNumero de comision", nroComision, "\nasignatura:", Asignatura, "\npresentismo?:", Presentismo)
